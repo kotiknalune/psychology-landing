@@ -1,4 +1,4 @@
-# Landing page for a family counceling therapist
+# Landing page for a family counseling therapist
 
 ## Technical requirements
 - [ ] Header/ introduction section
